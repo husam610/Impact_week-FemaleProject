@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Oswald;
+    font-size:180%;
+}
+.container{
+    margin-top: 120px;
+    text-align: justify;
+}
+
+#images {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+h1{
+    color:#85b3b8;
+}
+
+h3{
+    margin-top: 50px;
+    color: grey;
+}

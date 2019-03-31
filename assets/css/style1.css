@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("/assets/logos/header.jpg");
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#navbar li a{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+.nav-container{
+    background: #85b3b8;
+    opacity: 0.7;
+    padding: 10px 30px 30px 10px;
+}
+.main-container{
+    margin-top: 110px;
+    padding: 10px;
+}
+#logo{
+    width: 100px;
+}
+.reg-container{
+    background: #85b3b8;
+    opacity: 0.7;
+    text-align: center;
+    width: 480px;
+    padding: 20px;
+    margin-top: 30px;
+}
+#parag{
+    margin-top: 90px;
+}
+h1{
+    
+    font-family: Oswald;
+    color: white;
+    text-align: center;
+}
+h4{
+    color: white;
+    margin-bottom: 25px;
+}
+footer{
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    margin-top: 30px;
+}
+h5{
+    margin-top: 100px;
+    color: #666;
+    font-family: Oswald;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+p a {
+    color: dodgerblue;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+}
+a{
+    color: dodgerblue;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+}

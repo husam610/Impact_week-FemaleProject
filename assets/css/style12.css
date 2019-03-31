@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Oswald;
+}
+
+.container{
+    margin-top: 120px;
+    text-align: justify;
+}
+
+.comment-container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#btn1{
+    float: right;
+    margin-top: 10px;
+}
+
+#time{
+    float: right;
+}
+
+.media-heading{
+    color: grey;
+}
+
+h4{
+    color: #85b3b8;
+}

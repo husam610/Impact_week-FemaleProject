@@ -1,0 +1,34 @@
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: Oswald;
+}
+#description{
+  text-align: justify;
+  margin-bottom: 50px;
+  font-size: 17px;
+}
+.container{
+  margin-top: 120px;
+}
+#btn2{
+  margin-top: 15px;
+  font-size: 20px;
+}
+#col{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+h3{
+  color: #85b3b8;
+  margin-bottom: 20px;
+  font-size: 25px;
+}
